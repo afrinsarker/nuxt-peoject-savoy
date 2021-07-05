@@ -1,0 +1,58 @@
+[
+  {
+    "name": "account",
+    "path": "/account",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/account/index.vue",
+    "chunkName": "pages/account/index",
+    "_name": "_5bf726f3"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/cart/index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_29b91fa0"
+  },
+  {
+    "name": "Shop",
+    "path": "/Shop",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/Shop/index.vue",
+    "chunkName": "pages/Shop/index",
+    "_name": "_2f976eb4"
+  },
+  {
+    "name": "account-register",
+    "path": "/account/register",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/account/register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_b06acadc"
+  },
+  {
+    "name": "cart-checkout",
+    "path": "/cart/checkout",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/cart/checkout/index.vue",
+    "chunkName": "pages/cart/checkout/index",
+    "_name": "_4caea5db"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_41a9f156"
+  },
+  {
+    "name": "category",
+    "path": "/:category",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/_category/index.vue",
+    "chunkName": "pages/_category/index",
+    "_name": "_23157f3a"
+  },
+  {
+    "name": "category-slug",
+    "path": "/:category/:slug",
+    "component": "/home/afrin/vue project/nuxt-project savoy/pages/_category/_slug/index.vue",
+    "chunkName": "pages/_category/_slug/index",
+    "_name": "_e5bfb544"
+  }
+]

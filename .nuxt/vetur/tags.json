@@ -1,0 +1,59 @@
+{
+  "Slider": {
+    "description": "Auto imported from components/Slider.vue"
+  },
+  "StorefrontAccountsLoginComponent": {
+    "description": "Auto imported from components/storefront/accounts/LoginComponent.vue"
+  },
+  "StorefrontAccountsRegisterComponent": {
+    "description": "Auto imported from components/storefront/accounts/RegisterComponent.vue"
+  },
+  "StorefrontCategories": {
+    "description": "Auto imported from components/storefront/categories/Categories.vue"
+  },
+  "StorefrontCategoriesSingleCategory": {
+    "description": "Auto imported from components/storefront/categories/SingleCategory.vue"
+  },
+  "StorefrontFooter": {
+    "description": "Auto imported from components/storefront/footer/Footer.vue"
+  },
+  "StorefrontMenuMobileMenu": {
+    "description": "Auto imported from components/storefront/menu/MobileMenu.vue"
+  },
+  "StorefrontMenuNavBar": {
+    "description": "Auto imported from components/storefront/menu/NavBar.vue"
+  },
+  "StorefrontProductsProductDescription": {
+    "description": "Auto imported from components/storefront/products/ProductDescription.vue"
+  },
+  "StorefrontProductsProductFilters": {
+    "description": "Auto imported from components/storefront/products/ProductFilters.vue"
+  },
+  "StorefrontProductsProductInfo": {
+    "description": "Auto imported from components/storefront/products/ProductInfo.vue"
+  },
+  "StorefrontProducts": {
+    "description": "Auto imported from components/storefront/products/Products.vue"
+  },
+  "StorefrontShopsCartComponents": {
+    "description": "Auto imported from components/storefront/shops/CartComponents.vue"
+  },
+  "StorefrontShopsCheckoutComponent": {
+    "description": "Auto imported from components/storefront/shops/CheckoutComponent.vue"
+  },
+  "StorefrontShopsFilterComponent": {
+    "description": "Auto imported from components/storefront/shops/FilterComponent.vue"
+  },
+  "StorefrontShopsProductComponent": {
+    "description": "Auto imported from components/storefront/shops/ProductComponent.vue"
+  },
+  "StorefrontShopsReviews": {
+    "description": "Auto imported from components/storefront/shops/Reviews.vue"
+  },
+  "StorefrontShopsSlider": {
+    "description": "Auto imported from components/storefront/shops/Slider.vue"
+  },
+  "StorefrontShopsPagination": {
+    "description": "Auto imported from components/storefront/shops/pagination.vue"
+  }
+}

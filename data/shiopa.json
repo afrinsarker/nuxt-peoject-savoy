@@ -1,0 +1,167 @@
+{
+    "category": [{
+            "id": 1,
+            "parent_id": 0,
+            "name": "Mobile",
+            "slug": "mobile",
+            "image": "phone_1000w.png"
+        },
+        {
+            "id": 2,
+            "parent_id": 0,
+            "name": "Laptop",
+            "slug": "laptop",
+            "image": "laptop_1000w.png"
+        },
+        {
+            "id": 3,
+            "parent_id": 1,
+            "name": "Apple",
+            "slug": "apple",
+            "image": "apple_1000w.png"
+        },
+        {
+            "id": 4,
+            "parent_id": 1,
+            "name": "Samsung",
+            "slug": "samsung",
+            "image": "samsung_1000w.png"
+        },
+        {
+            "id": 5,
+            "parent_id": 2,
+            "name": "Dell",
+            "slug": "dell",
+            "image": "dell_1000w.png"
+        }
+    ],
+
+    "product": [{
+            "id": 1,
+            "category_id": 3,
+            "section": "latest",
+            "name": "Iphone Max",
+            "slug": "iphone-max",
+            "image": "default_product.jpg",
+            "price": 800,
+            "stock": 5,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?",
+            "additional_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?"
+        },
+        {
+            "id": 2,
+            "category_id": 3,
+            "section": "latest",
+            "name": "Iphone 8",
+            "slug": "iphone-8",
+            "image": "default_product.jpg",
+            "price": 600,
+            "stock": 7,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?",
+            "additional_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?"
+        },
+        {
+            "id": 3,
+            "category_id": 4,
+            "section": "latest",
+            "name": "Samsung S10",
+            "slug": "samsung-s10",
+            "image": "default_product.jpg",
+            "price": 900,
+            "stock": 10,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?",
+            "additional_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?"
+        },
+        {
+            "id": 4,
+            "category_id": 5,
+            "section": "latest",
+            "name": "Dell GT100",
+            "slug": "dell-gt100",
+            "image": "default_product.jpg",
+            "price": 1050,
+            "stock": 4,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?",
+            "additional_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?"
+        },
+        {
+            "id": 5,
+            "category_id": 5,
+            "section": "latest",
+            "name": "Dell Gaming",
+            "slug": "dell-gaming",
+            "image": "default_product.jpg",
+            "price": 1700,
+            "stock": 3,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?",
+            "additional_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quibusdam?"
+        }
+
+    ],
+    "slider": [{
+            "id": 1,
+            "active": true,
+            "category_id": "3",
+            "category_name": "Furniture",
+            "product_id": "6",
+            "name": "Gray Classic Sofa",
+            "image": "slider_1.jpg",
+            "alt": "Description of slider image"
+        },
+        {
+            "id": 2,
+            "active": false,
+            "category_id": "3",
+            "category_name": "Clocks",
+            "product_id": "7",
+            "name": "Wooden Clock",
+            "image": "slider_2.jpg",
+            "alt": "Description of slider image"
+        },
+        {
+            "id": 3,
+            "active": false,
+            "category_id": "3",
+            "category_name": "Jewelry",
+            "product_id": "8",
+            "name": "Small Infinite Beads",
+            "image": "beads_1000w.png",
+            "alt": "Description of slider image"
+        }
+    ],
+    "shopslider": [{
+            "id": 1,
+            "image": "slider_1.jpg",
+            "alt": "Description of slider image"
+        },
+        {
+            "id": 2,
+            "image": "slider_2.jpg",
+            "alt": "Description of slider image"
+        },
+        {
+            "id": 3,
+            "image": "slider_3.jpg",
+            "alt": "Description of slider image"
+        }
+    ],
+    "product_review": [{
+        "id": 1,
+        "product_id": 1,
+        "username": "johndoe",
+        "comment": "This is a nice product, 10/10 would buy it again!",
+        "rating": 5,
+        "created_at": "2021-06-21T16:26:39+00:00",
+        "updated_at": "2021-06-21T16:26:39+00:00"
+    }, {
+        "id": 2,
+        "product_id": 3,
+        "username": "janedoe",
+        "comment": "Great customer service, nice product quality. Would love some discount for my next purchase :-)",
+        "rating": 4,
+        "created_at": "2021-06-18T09:52:11+00:00",
+        "updated_at": "2021-06-18T09:52:11+00:00"
+    }]
+
+
+}
